@@ -11,4 +11,4 @@ class Random(commands.Cog):
   async def _pornpls(self, ctx):
     """Horny Boy"""
     await ctx.send("Go to horny jail!")
-    await ctx.send(file=discord.File('bonk.jpg'))
+    await ctx.send(file=discord.File('assets/bonk.jpg'))
