@@ -3,8 +3,8 @@ import discord
 from pretty_help import PrettyHelp, Navigation
 from discord.ext import commands
 
-from random_commands import Random
-from music_commands import Music
+from commands.random_commands import Random
+from commands.music_commands import Music
 
 orange = discord.Color.orange()
 
